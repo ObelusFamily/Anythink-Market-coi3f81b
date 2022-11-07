@@ -10,5 +10,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-
-To setup the repo first you need to setup the codespace following this link https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=561449592. In the codespace terminal type the command `docker-compose up`. Click on the browser links that appear in the terminal starting with the public backend to make sure the sever is working then the public frontend. You can also link the cloudspace directly to vscode if you prefer. Help
+To setup the repo first you need to setup the codespace following this link https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=561449592. In the codespace terminal type the command `docker-compose up`. Click on the browser links that appear in the terminal starting with the public backend to make sure the sever is working then the public frontend. You can also link the cloudspace directly to vscode if you would like.
